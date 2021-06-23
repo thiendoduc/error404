@@ -3,3 +3,7 @@ nguyễn văn a
 phan chu trinh
 lê hồng phong
 long biên
+git fetch origin --lay du lieu ve
+git pull --deo bt cu lam di
+git branch -d <tên branch> --xóa đcm ngu quá ban ơi
+git commit -m "ghi lai cai gi thi gi"
