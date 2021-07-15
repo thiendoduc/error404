@@ -8,3 +8,6 @@ git pull --deo bt cu lam di
 git branch -d <tên branch> --xóa đcm ngu quá ban ơi
 git commit -m "ghi lai cai gi thi gi"
 git clone -b "tên branch muốn clone" url "đường link muôn clone"
+git stash?
+git pull origin dev
+git stash pop
